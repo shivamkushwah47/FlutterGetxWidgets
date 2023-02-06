@@ -30,7 +30,6 @@ class TextForm extends GetView {
         fillColor: fillColor??Colors.grey.shade100,
         hintStyle: TextStyle(color: lableColor?? Colors.pinkAccent),
         labelStyle: TextStyle(color: lableColor?? Colors.pinkAccent),
-
         filled: filled??false,
         hintText: text ?? "enter value",
         labelText: text ?? "enter value",
